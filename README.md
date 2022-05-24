@@ -19,6 +19,11 @@ Clone the repo
 git clone https://github.com/smesh-network/react-native-smesh-starter.git
 ```
 
+Continue to directory
+```bash
+cd react-native-smesh-starter
+```
+
 Use the package manager [yarn](https://yarnpkg.com/) to install packages
 
 ```bash
