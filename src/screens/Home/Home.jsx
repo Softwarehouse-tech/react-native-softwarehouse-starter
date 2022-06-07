@@ -2,7 +2,7 @@ import React from 'react'
 
 import { StyleSheet, Text, View } from 'react-native'
 
-import PageHoc from '../../components/Page'
+import PageHoc from '../../layouts/PageHoc'
 
 const Home = () => (
     <View>
